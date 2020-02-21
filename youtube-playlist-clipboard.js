@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Youtube playlist to clipboard
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1a
 // @description  Copys the video urls on the current page to clipboard
 // @author       braunbearded
 // @match        https://www.youtube.com/*
 // @grant        none
-// @downloadURL  https://github.com/braunbearded/browser-scripts/master/youtube-playlist-clipboard.js
+// @downloadURL  https://raw.githubusercontent.com/braunbearded/browser-scripts/master/youtube-playlist-clipboard.js
 // ==/UserScript==
 
 (function() {
