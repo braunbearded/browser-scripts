@@ -4,7 +4,7 @@
 // @version      0.1a
 // @description  Copys the video urls on the current page to clipboard
 // @author       braunbearded
-// @match        https://www.youtube.com/*
+// @match        https://www.youtube.com/playlist?list=WL
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/braunbearded/browser-scripts/master/youtube-playlist-clipboard.js
 // ==/UserScript==
@@ -28,3 +28,4 @@
     };
     playlist.appendChild(button);
 })();
+
