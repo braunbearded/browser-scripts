@@ -7,7 +7,7 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.18.2/babel.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.16.0/polyfill.js
 // @match        https://auas.cs.uni-duesseldorf.de/*
-// @downloadURL  FIXME
+// @downloadURL  https://raw.githubusercontent.com/braunbearded/browser-scripts/master/pretty-auas/prettyauas.js
 // ==/UserScript==
 
 /* jshint ignore:start */

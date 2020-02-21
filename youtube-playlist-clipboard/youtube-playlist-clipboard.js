@@ -6,7 +6,7 @@
 // @author       braunbearded
 // @match        https://www.youtube.com/playlist?list=WL
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/braunbearded/browser-scripts/master/youtube-playlist-clipboard.js
+// @downloadURL  https://raw.githubusercontent.com/braunbearded/browser-scripts/master/youtube-playlist-clipboard/youtube-playlist-clipboard.js
 // ==/UserScript==
 
 (function() {
