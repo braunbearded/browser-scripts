@@ -23,8 +23,9 @@
     for (let i = 0; i < urls.length; i++) {
         let li = document.createElement("li");
         let url = document.createElement("a");
+        let filename = urls[i].split("/");
         url.setAttribute("href", urls[i]);
-        url.setAttribute("download", "download");
+        url.setAttribute("download", filename[2]+filename[3]);
         url.innerHTML = urls[i];
 
         li.appendChild(url);
