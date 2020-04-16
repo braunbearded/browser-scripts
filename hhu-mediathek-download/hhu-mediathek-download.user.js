@@ -6,6 +6,7 @@
 // @author       braunbearded
 // @match        https://mediathek.hhu.de/watch/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/braunbearded/browser-scripts/master/hhu-mediathek-download/hhu-mediathek-download.js
 // ==/UserScript==
 
 (function() {
